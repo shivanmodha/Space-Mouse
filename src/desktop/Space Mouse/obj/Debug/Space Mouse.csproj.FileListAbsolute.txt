@@ -1,0 +1,11 @@
+c:\users\shivan\documents\visual studio 2015\Projects\Space Mouse\Space Mouse\bin\Debug\Space Mouse.exe.config
+c:\users\shivan\documents\visual studio 2015\Projects\Space Mouse\Space Mouse\bin\Debug\Space Mouse.exe
+c:\users\shivan\documents\visual studio 2015\Projects\Space Mouse\Space Mouse\bin\Debug\Space Mouse.pdb
+c:\users\shivan\documents\visual studio 2015\Projects\Space Mouse\Space Mouse\obj\Debug\Space Mouse.csprojResolveAssemblyReference.cache
+c:\users\shivan\documents\visual studio 2015\Projects\Space Mouse\Space Mouse\obj\Debug\Space_Mouse.Properties.Resources.resources
+c:\users\shivan\documents\visual studio 2015\Projects\Space Mouse\Space Mouse\obj\Debug\Space Mouse.csproj.GenerateResource.Cache
+c:\users\shivan\documents\visual studio 2015\Projects\Space Mouse\Space Mouse\obj\Debug\Space Mouse.exe
+c:\users\shivan\documents\visual studio 2015\Projects\Space Mouse\Space Mouse\obj\Debug\Space Mouse.pdb
+c:\users\shivan\documents\visual studio 2015\Projects\Space Mouse\Space Mouse\bin\Debug\Spark.UI.dll
+c:\users\shivan\documents\visual studio 2015\Projects\Space Mouse\Space Mouse\bin\Debug\Spark.Utility.dll
+c:\users\shivan\documents\visual studio 2015\Projects\Space Mouse\Space Mouse\obj\Debug\Vanish.Studios.SpaceMouse.resources
